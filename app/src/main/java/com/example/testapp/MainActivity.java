@@ -26,6 +26,12 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        // 1초에 3번 정도 저장 됩니다. 예, 그럴것 같습니다.
+        // 예
+        // 네
+        // 예
+        // 아네, 알겠습니다. 네~
     }
 
     @Override
